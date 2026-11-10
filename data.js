@@ -34,6 +34,23 @@ window.SITE_DATA = {
                       "reviewUrl": "quiz.html?q=splv2_ot3"
                     }
                   ]
+                },
+                {
+                  "title": "ÔN THI",
+                  "lessons": [
+                    {
+                      "nums": "1",
+                      "name": "Đề 1",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv2_hk1_01"
+                    },
+                    {
+                      "nums": "2",
+                      "name": "Đề 2",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv2_hk1_02"
+                    }
+                  ]
                 }
               ]
             },
