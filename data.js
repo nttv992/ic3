@@ -15,7 +15,19 @@ window.SITE_DATA = {
               "color": "green",
               "reviewTitle": "IC3 SPARK GS6 - Level 1",
               "docUrl": "",
-              "topics": []
+              "topics": [
+                {
+                  "title": "Chủ đề  Sáng tạo nội dung",
+                  "lessons": [
+                    {
+                      "nums": "17, 18",
+                      "name": "Tài liệu và bài trình chiếu + Làm quen Microsoft Word",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv1_1718"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "name": "SPARK Level 2",
