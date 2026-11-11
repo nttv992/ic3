@@ -25,13 +25,19 @@ window.SITE_DATA = {
               "docUrl": "",
               "topics": [
                 {
-                  "title": "ÔN TẬP",
+                  "title": "ÔN TẬP HK1",
                   "lessons": [
                     {
-                      "nums": "*",
-                      "name": "Sáng tại nội dung",
+                      "nums": "1",
+                      "name": "Đề 1",
                       "lessonUrl": "",
-                      "reviewUrl": "quiz.html?q=splv2_ot3"
+                      "reviewUrl": "quiz.html?q=splv2_hk1_01"
+                    },
+                    {
+                      "nums": "2",
+                      "name": "Đề 2",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv2_hk1_02"
                     }
                   ]
                 }
@@ -43,7 +49,25 @@ window.SITE_DATA = {
               "color": "blue",
               "reviewTitle": "SPARK Level 3",
               "docUrl": "",
-              "topics": []
+              "topics": [
+                {
+                  "title": "ÔN TẬP HK1",
+                  "lessons": [
+                    {
+                      "nums": "1",
+                      "name": "Đề 1",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_hk1_01"
+                    },
+                    {
+                      "nums": "2",
+                      "name": "Đề 2",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_hk1_02"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
