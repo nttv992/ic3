@@ -15,7 +15,37 @@ window.SITE_DATA = {
               "color": "green",
               "reviewTitle": "IC3 SPARK GS6 - Level 1",
               "docUrl": "",
-              "topics": []
+              "topics": [
+                {
+                  "title": "Chủ đề 1: Cơ bản về công nghệ",
+                  "lessons": [
+                    {
+                      "nums": "1, 2",
+                      "name": "Phần cứng máy tính",
+                      "lessonUrl": "flashcard.html?d=splv1_12",
+                      "reviewUrl": "quiz.html?q=splv1_12"
+                    },
+                    {
+                      "nums": "3",
+                      "name": "Phần mềm và các loại phần mềm",
+                      "lessonUrl": "flashcard.html?d=splv1_3",
+                      "reviewUrl": "quiz.html?q=splv1_3"
+                    },
+                    {
+                      "nums": "4",
+                      "name": "Hệ điều hành và chương trình ứng dụng",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv1_4"
+                    },
+                    {
+                      "nums": "*",
+                      "name": "Bài tập tổng hợp",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv1_1234"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "name": "SPARK Level 2",
@@ -25,30 +55,31 @@ window.SITE_DATA = {
               "docUrl": "",
               "topics": [
                 {
-                  "title": "ÔN TẬP",
+                  "title": "",
                   "lessons": [
                     {
-                      "nums": "1",
-                      "name": "Sáng tạo nội dung",
-                      "lessonUrl": "",
-                      "reviewUrl": "quiz.html?q=splv2_ot3"
-                    }
-                  ]
-                },
-                {
-                  "title": "ÔN THI",
-                  "lessons": [
-                    {
-                      "nums": "1",
-                      "name": "Đề 1",
-                      "lessonUrl": "",
-                      "reviewUrl": "quiz.html?q=splv2_hk1_01"
+                      "nums": "1 + 2",
+                      "name": "Hệ điều hành và các hệ điều hành thông dụng",
+                      "lessonUrl": "flashcard.html?d=splv2_12",
+                      "reviewUrl": "quiz.html?q=splv2_12"
                     },
                     {
-                      "nums": "2",
-                      "name": "Đề 2",
+                      "nums": "3 + 4",
+                      "name": "Thông tin đầu vào  và thông tin đầu ra",
+                      "lessonUrl": "flashcard.html?d=splv2_34",
+                      "reviewUrl": "quiz.html?q=splv2_34"
+                    },
+                    {
+                      "nums": "5 + 6",
+                      "name": "Thiết bị nhập, Thiết bị xuất",
+                      "lessonUrl": "flashcard.html?d=splv2_56",
+                      "reviewUrl": "quiz.html?q=splv2_56"
+                    },
+                    {
+                      "nums": "*",
+                      "name": "Bài tập tổng hợp",
                       "lessonUrl": "",
-                      "reviewUrl": "quiz.html?q=splv2_hk1_02"
+                      "reviewUrl": "quiz.html?q=splv2_123456"
                     }
                   ]
                 }
@@ -60,7 +91,31 @@ window.SITE_DATA = {
               "color": "blue",
               "reviewTitle": "SPARK Level 3",
               "docUrl": "",
-              "topics": []
+              "topics": [
+                {
+                  "title": "Chủ đề 1: Cơ bản về công nghệ",
+                  "lessons": [
+                    {
+                      "nums": "1",
+                      "name": "Ứng dụng công nghệ đa dạng",
+                      "lessonUrl": "flashcard.html?d=splv3_1",
+                      "reviewUrl": "quiz.html?q=splv3_1"
+                    },
+                    {
+                      "nums": "2 + 3",
+                      "name": "Lưu trữ thông tin + Máy học",
+                      "lessonUrl": "flashcard.html?d=splv3_23",
+                      "reviewUrl": "quiz.html?q=splv3_23"
+                    },
+                    {
+                      "nums": "4",
+                      "name": "Mạng máy tính",
+                      "lessonUrl": "flashcard.html?d=splv3_4",
+                      "reviewUrl": "quiz.html?q=splv3_4"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
