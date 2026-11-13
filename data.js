@@ -20,6 +20,12 @@ window.SITE_DATA = {
                   "title": "Chủ đề  Sáng tạo nội dung",
                   "lessons": [
                     {
+                      "nums": "*",
+                      "name": "Thực hành word",
+                      "lessonUrl": "",
+                      "reviewUrl": "https://snowt.tuyethn3136.workers.dev/products/msoffice/word-simulator?bai=1"
+                    },
+                    {
                       "nums": "17, 18",
                       "name": "Tài liệu và bài trình chiếu + Làm quen Microsoft Word",
                       "lessonUrl": "",
