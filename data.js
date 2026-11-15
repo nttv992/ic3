@@ -43,7 +43,24 @@ window.SITE_DATA = {
               "docUrl": "",
               "topics": [
                 {
-                  "title": "ÔN TẬP HK1",
+                  "title": "Chủ đề: Công dân số",
+                  "lessons": [
+                    {
+                      "nums": "22",
+                      "name": "Quyền công dân kĩ thuật số",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv2_22"
+                    },
+                    {
+                      "nums": "23",
+                      "name": "Ứng xử trực tuyến",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv2_23"
+                    }
+                  ]
+                },
+                {
+                  "title": "Ôn tập HK1",
                   "lessons": [
                     {
                       "nums": "1",
