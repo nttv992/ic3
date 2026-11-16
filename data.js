@@ -32,6 +32,23 @@ window.SITE_DATA = {
                       "reviewUrl": "quiz.html?q=splv1_1718"
                     }
                   ]
+                },
+                {
+                  "title": "Ôn tập HK1",
+                  "lessons": [
+                    {
+                      "nums": "1",
+                      "name": "Đề 1",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv1_hk1_01"
+                    },
+                    {
+                      "nums": "2",
+                      "name": "Đề 2",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv1_hk1_02"
+                    }
+                  ]
                 }
               ]
             },
