@@ -98,6 +98,17 @@ window.SITE_DATA = {
                       "reviewUrl": "quiz.html?q=splv2_hk1_02"
                     }
                   ]
+                },
+                {
+                  "title": "Chủ đề sáng tạo nội dung",
+                  "lessons": [
+                    {
+                      "nums": "*",
+                      "name": "Kiểm tra",
+                      "lessonUrl": "",
+                      "reviewUrl": "https://tinhoc247.github.io/ic3-spark-lv2/bai-kiem-tra-hoc-sinh-spark-lv2-sang-tao-noi-dung-mw8wwhj7hwrh.html"
+                    }
+                  ]
                 }
               ]
             },
