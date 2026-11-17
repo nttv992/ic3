@@ -63,16 +63,22 @@ window.SITE_DATA = {
                   "title": "Chủ đề: Công dân số",
                   "lessons": [
                     {
-                      "nums": "22",
-                      "name": "Quyền công dân kĩ thuật số",
+                      "nums": "22 + 23",
+                      "name": "Quyền công dân kĩ thuật số, Ứng xử trực tuyến",
                       "lessonUrl": "",
-                      "reviewUrl": "quiz.html?q=splv2_22"
+                      "reviewUrl": "quiz.html?q=splv2_2223"
                     },
                     {
-                      "nums": "23",
-                      "name": "Ứng xử trực tuyến",
+                      "nums": "24",
+                      "name": "Dấu chân kỹ thuật số",
                       "lessonUrl": "",
-                      "reviewUrl": "quiz.html?q=splv2_23"
+                      "reviewUrl": "quiz.html?q=splv2_24"
+                    },
+                    {
+                      "nums": "*",
+                      "name": "Tổng hợp",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv2_222324"
                     }
                   ]
                 },
