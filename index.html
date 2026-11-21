@@ -6,8 +6,8 @@
 <title>Trang chủ</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="student.css?v=4">
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="index.css?v=1">
 </head>
 <body>
 <div class="topbar"><div class="wrap"><a href="#/"><span id="siteIcon"></span><span id="siteTitle"></span></a></div></div>
@@ -44,7 +44,7 @@ function render(){
   const sp=D.support;
   if(sp&&(sp.cardName||(sp.steps||[]).length)){
     const url=safeUrl(sp.cardUrl), vid=safeUrl(sp.videoUrl);
-    const card=`<${url?'a':'div'} class="k12"${url?` href="${esc(url)}" target="_blank" rel="noopener"`:''}>
+    const card=`<${url?'a':'div'} class="k12"${url?` href="${esc(url)}" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer"`:''}>
         <div class="ico">${esc(sp.cardIcon||'📚')}</div><b>${esc(sp.cardName)}</b>
         ${url?'<span class="go">Bấm để mở <i>→</i></span>':''}</${url?'a':'div'}>`;
     const steps=(sp.steps||[]).map(t=>`<li><span>${md(t)}</span></li>`).join('');
