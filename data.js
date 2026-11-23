@@ -135,6 +135,35 @@ window.SITE_DATA = {
                       "reviewUrl": "quiz.html?q=splv3_hk1_02"
                     }
                   ]
+                },
+                {
+                  "title": "Ôn luyện",
+                  "lessons": [
+                    {
+                      "nums": "1",
+                      "name": "Cơ bản về công nghệ",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_cd1"
+                    },
+                    {
+                      "nums": "2",
+                      "name": "Công dân số",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_cd2"
+                    },
+                    {
+                      "nums": "3",
+                      "name": "Quản lý thông tin",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_cd3"
+                    },
+                    {
+                      "nums": "4",
+                      "name": "Sáng tạo nội dung",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_cd4"
+                    }
+                  ]
                 }
               ]
             }
