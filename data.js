@@ -137,7 +137,7 @@ window.SITE_DATA = {
                   ]
                 },
                 {
-                  "title": "Ôn luyện",
+                  "title": "ÔN LUYỆN",
                   "lessons": [
                     {
                       "nums": "1",
