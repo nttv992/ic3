@@ -184,7 +184,7 @@ window.SITE_DATA = {
                   ]
                 },
                 {
-                  "title": "Bài Test",
+                  "title": "BÀI TEST",
                   "lessons": [
                     {
                       "nums": "1",
