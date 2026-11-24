@@ -182,6 +182,35 @@ window.SITE_DATA = {
                       "reviewUrl": "quiz.html?q=splv3_cd7"
                     }
                   ]
+                },
+                {
+                  "title": "Bài Test",
+                  "lessons": [
+                    {
+                      "nums": "1",
+                      "name": "Test 1",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_t1"
+                    },
+                    {
+                      "nums": "2",
+                      "name": "Test 2",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_t2"
+                    },
+                    {
+                      "nums": "3",
+                      "name": "Test 3",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_t3"
+                    },
+                    {
+                      "nums": "4",
+                      "name": "Test 4",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_t4"
+                    }
+                  ]
                 }
               ]
             }
