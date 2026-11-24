@@ -162,6 +162,24 @@ window.SITE_DATA = {
                       "name": "Sáng tạo nội dung",
                       "lessonUrl": "",
                       "reviewUrl": "quiz.html?q=splv3_cd4"
+                    },
+                    {
+                      "nums": "5",
+                      "name": "Giao tiếp kỹ thuật số",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_cd5"
+                    },
+                    {
+                      "nums": "6",
+                      "name": "Cộng tác",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_cd6"
+                    },
+                    {
+                      "nums": "7",
+                      "name": "An toàn và bảo mật",
+                      "lessonUrl": "",
+                      "reviewUrl": "quiz.html?q=splv3_cd7"
                     }
                   ]
                 }
